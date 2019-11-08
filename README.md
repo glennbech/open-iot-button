@@ -11,7 +11,7 @@ brew install platformio
 # make an Alias
 
 ```
-alias pio2=platformio
+alias pio=platformio
 ```
 
 # Initialize the project 
