@@ -16,7 +16,7 @@ alias pio=platformio
 
 # Initialize the project 
   
-platformio init --board esp32doit-devkit-v1
+pio init --board esp32doit-devkit-v1
  
 # Common tasks
   
