@@ -1,4 +1,4 @@
-# open-iot-button
+# The Open IOT Button project
 
 # get started on your Mac with PlatformIO
 
