@@ -4,7 +4,7 @@
 
 PlatformIO is awesome. The Arduono IDE is based on Eclipse. Get Platform IO right away if you plan on doing any work with arduino and don't want your eyes and fingers to bleed. 
 
-````
+```
 brew install platformio
 ```
 
@@ -26,6 +26,7 @@ platformio device list
 ```
 
 Upload and to the bord and run the sketch 
+
 ```
 platformio run -t upload
 ```
