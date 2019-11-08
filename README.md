@@ -22,12 +22,12 @@ pio init --board esp32doit-devkit-v1
 
 # Common tasks
   
-Is the baord connected? 
+Is the board connected? 
 ```
 platformio device list 
 ```
 
-Upload and to the bord and run the sketch 
+Upload and to the board and run the sketch 
 
 ```
 platformio run -t upload
