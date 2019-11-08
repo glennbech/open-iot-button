@@ -1,6 +1,6 @@
 # open-iot-button
 
-# get started on your MAC with PlatformIO
+# get started on your Mac with PlatformIO
 
 PlatformIO is awesome. The Arduono IDE is based on Eclipse. Get Platform IO right away if you plan on doing any work with arduino and don't want your eyes and fingers to bleed. 
 
