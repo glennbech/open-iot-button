@@ -16,8 +16,10 @@ alias pio=platformio
 
 # Initialize the project 
   
+```
 pio init --board esp32doit-devkit-v1
- 
+```
+
 # Common tasks
   
 Is the baord connected? 
